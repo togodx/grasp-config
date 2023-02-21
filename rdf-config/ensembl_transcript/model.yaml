@@ -1,0 +1,14 @@
+- EnsemblTranscript enst:ENST00000353331:
+  - a:
+    - ensterm:protein_coding
+    - obo:SO_0000234 # mRNA
+  - dct:identifier:
+    - id: "ENST00000353331"
+  - rdfs:label:
+    - label: "BCLAF1-201"
+  - so:transcribed_from:
+    - ensembl_gene: ensg:ENSG00000029363 # BCLAF1
+  - so:translates_to:
+    - ensembl_protein: ensp:ENSP00000229446
+  - so:has_part:
+    - ensembl_exon: p2:ENSE00000458095 # ENSE00000458095
