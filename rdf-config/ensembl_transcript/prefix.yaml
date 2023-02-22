@@ -1,6 +1,4 @@
 rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-ensg: <http://rdf.ebi.ac.uk/resource/ensembl/>
-enst: <http://rdf.ebi.ac.uk/resource/ensembl.transcript/>
 enst: <http://rdf.ebi.ac.uk/resource/ensembl.transcript/>
 ensterm: <http://rdf.ebi.ac.uk/terms/ensembl/>
 obo: <http://purl.obolibrary.org/obo/>
